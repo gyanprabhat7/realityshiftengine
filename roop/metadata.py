@@ -1,2 +1,2 @@
-name = 'roop'
-version = '1.3.2'
+name = 'Reality Shift Engine'
+version = '0.0.1'
