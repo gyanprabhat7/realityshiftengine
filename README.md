@@ -4,9 +4,9 @@ A deepfake AI program based on roop
 ## Installation
 
 
-[Basic](https://github.com/gyanprabhat7/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
+[Basic](https://github.com/s0md3v/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
 
-[Acceleration](https://github.com/gyanprabhat7/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
+[Acceleration](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
 
 
 ## Usage
