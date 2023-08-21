@@ -4,11 +4,11 @@ A deepfake AI program based on roop
 ## Installation
 
 
-[Basic]([https://github.com/s0md3v/roop/wiki/1.-Installation](https://github.com/gyanprabhat7/realityshiftengine/blob/main/wiki/1.-Installation.md)) - It is more likely to work on your computer, but will be quite slow
+[Basic](https://github.com/gyanprabhat7/realityshiftengine/blob/main/wiki/1.-Installation.md) - It is more likely to work on your computer, but will be quite slow
 
 
 
-[Acceleration]([https://github.com/s0md3v/roop/wiki/2.-Acceleration](https://github.com/gyanprabhat7/realityshiftengine/blob/main/wiki/2.-Acceleration.md)) - Unleash the full potential of your CPU and GPU
+[Acceleration](https://github.com/gyanprabhat7/realityshiftengine/blob/main/wiki/2.-Acceleration.md) - Unleash the full potential of your CPU and GPU
 
 
 ## Usage
